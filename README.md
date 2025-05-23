@@ -8,12 +8,12 @@
 
 ### What I Work On
 
-- 🔬 Advancing **computer vision** techniques for medical and industrial applications  
-- 🧬 Applying **machine learning** in data-heavy domains like healthcare, chemistry, and solar analysis  
-- 🧠 Exploring **deep learning** architectures for classification, detection, and forecasting tasks  
-- 🔍 Researching **LLMs** and **retrieval-augmented generation (RAG)** for enterprise-scale document search  
-- ⚙️ Developing and deploying **FastAPI-powered ML backends**  
-- 📱 Building smart applications with **Flutter** and **Python** integrations
+- Advancing **computer vision** techniques for medical and industrial applications  
+-  Applying **machine learning** in data-heavy domains like healthcare, chemistry, and solar analysis  
+-  Exploring **deep learning** architectures for classification, detection, and forecasting tasks  
+-  Researching **LLMs** and **retrieval-augmented generation (RAG)** for enterprise-scale document search  
+-  Developing and deploying **FastAPI-powered ML backends**  
+-  Building smart applications with **Flutter** and **Python** integrations
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 🤝 Open to Collaborate On
+### Open to Collaborate On
 
 - Computer Vision apps for medical, energy, or safety fields  
 - ML/DL pipelines with practical, interpretable outputs  
