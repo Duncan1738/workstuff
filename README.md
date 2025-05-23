@@ -56,11 +56,4 @@
 
 ---
 
-### How to reach me
 
-- Website: https://about-duncankibet.web.app/ 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Duncan1738&label=Profile+views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
