@@ -41,8 +41,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" alt="AI brain" />
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="280" alt="Data streaming" />
-  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="280" alt="Charts" />
+
 </p>
 
 ---
